@@ -9,7 +9,8 @@ Projet demarrer avec la commande `npm test` et passe avec succes
 ![first test](images/first_test.png)
 
 ## TEST WITH ERROR:
-Test avec erreur `return a * b` 
+Test avec erreur `return a * b`
+
 ![test error](images/test_error.png)
 
 ## ERROR SOLVED:
